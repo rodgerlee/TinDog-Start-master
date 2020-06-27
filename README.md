@@ -1,2 +1,2 @@
 TinDog 
-- a responsive HTML and CSS designed website
+- a responsive website built using HTML, CSS, Bootstrap
